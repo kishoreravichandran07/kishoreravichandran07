@@ -18,10 +18,9 @@ with AI, with each item labeled for what it is:
 - **Case studies** - written accounts, in my own words, of internal systems and
   workflows I built at work. The original code, configuration, and data are not
   included; the case studies describe the problem, my contribution, and what I learned.
-- **Demos** - illustrative examples built with my AI assistant specifically for this
-  portfolio, using synthetic data. They demonstrate design ideas from the case studies.
-  They are not the original company systems, and they are not presented as evidence of
-  my own programming.
+- **Demos** - illustrative examples created for this portfolio, using synthetic data.
+  They demonstrate design ideas from the case studies and are not the original company
+  systems.
 
 ## Pinned
 
@@ -30,7 +29,6 @@ with AI, with each item labeled for what it is:
 - `case-study-deal-flow-automation` - an Airtable workflow linked to a VC team's deal
   email threads that advanced deal stages and prompted next steps.
 - `demo-llm-context-layer` - a small runnable illustration of context extraction,
-  validation, and access-controlled sharing (synthetic data; built with my AI assistant
-  for this portfolio).
+  validation, and access-controlled sharing (synthetic data, new portfolio work).
 
 Find me on [LinkedIn](https://www.linkedin.com/in/kishore1997/).
